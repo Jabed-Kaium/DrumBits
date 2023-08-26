@@ -2,7 +2,7 @@
 
 ### A drum set bit maker.
 
-Play drum bits using keyboard or mouse.
+Play drum set using keyboard or mouse.
 
 Technology used:
 
